@@ -1,0 +1,22 @@
+<svg height="302" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="302" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">3 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ electron-osx-sign@0.4.4 </tspan>
+<tspan x="10" y="90">  ├── bluebird@3.5.0 </tspan>
+<tspan x="10" y="106">  ├── compare-version@0.1.2 </tspan>
+<tspan x="10" y="122">  ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="138">  │ └── ms@0.7.3 </tspan>
+<tspan x="10" y="154">  ├── isbinaryfile@3.0.2 </tspan>
+<tspan x="10" y="170">  ├── minimist@1.2.0 </tspan>
+<tspan x="10" y="186">  ├─┬ plist@2.0.1 </tspan>
+<tspan x="10" y="202">  │ ├── base64-js@1.1.2 </tspan>
+<tspan x="10" y="218">  │ ├── xmlbuilder@8.2.2 </tspan>
+<tspan x="10" y="234">  │ └── xmldom@0.1.27 </tspan>
+<tspan x="10" y="250">  └─┬ tempfile@1.1.1 </tspan>
+<tspan x="10" y="266">    ├── os-tmpdir@1.0.2 </tspan>
+<tspan x="10" y="282">    └── uuid@2.0.3</tspan>
+</text>
+</svg>
